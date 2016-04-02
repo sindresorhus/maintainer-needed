@@ -8,3 +8,4 @@
 - [notifier-for-github-safari](https://github.com/sindresorhus/notifier-for-github-safari/issues/6) - Safari extension that displays your GitHub notifications unread count
 - [notifier-for-github-firefox](https://github.com/sindresorhus/notifier-for-github-firefox/issues/15) - Firefox extension that displays your GitHub notifications unread count
 - [notifier-for-github-chrome](https://github.com/sindresorhus/notifier-for-github-chrome/issues/67) - Chrome extension that displays your GitHub notifications unread count
+- [time-grunt](https://github.com/sindresorhus/time-grunt/issues/78) - Display the elapsed execution time of grunt tasks
